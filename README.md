@@ -30,7 +30,7 @@ Supports multiple users, usernames, colored messages.
 
 ---
 
-#*Open the src folder in terminal*
+-*Open the src folder in terminal*
 
 1. Start the server
 
