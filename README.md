@@ -33,18 +33,31 @@ Supports multiple users, usernames, colored messages.
 #*Open the src folder in terminal*
 
 1. Start the server
-```java Server.java``` or ```java Server```
+
+Type
+
+```java Server.java```
+
+ or
+
+ ```java Server```
 
 
 Output:
 
 ```Server is running...```
 
-3. Run the client(s)
+2. Run the client(s)
 
 Open another terminal still in the src folder (or multiple terminals for multiple users):
 
-```java ChatClient.java``` or ```java ChatClient```
+Type
+
+```java ChatClient.java``` 
+
+or 
+
+```java ChatClient```
 
 
 You’ll be prompted:
